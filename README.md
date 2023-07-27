@@ -1,5 +1,5 @@
 # SteamPrices
-A program for getting current prices for Buff163 service items.
+Program for getting current prices for Steam items.
 
 # View
 Window of the program.
